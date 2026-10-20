@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/stats-organization/github-stats-extended)*
 
-[![Anurag's GitHub stats]([https://github-stats-extended.vercel.app/api?username=BNDong](https://github-stats-extended.vercel.app/api/?username=BNDong&show_icons=true&theme=light_github&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed))](https://github.com/stats-organization/github-stats-extended)
+![BNDong GitHub stats](https://github-stats-extended.vercel.app/api/?username=BNDong&show_icons=true&theme=light_github&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
