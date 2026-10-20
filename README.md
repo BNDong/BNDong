@@ -1,4 +1,4 @@
-### Hi there, I'm [BNDong!](https://www.dbnuo.com/) 👋
+### Hi there, I'm BNDong! 👋
 
 <!--
 Here are some ideas to get you started:
